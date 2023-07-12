@@ -3,8 +3,8 @@ DeepWeb is a tool that extracts links from a webpage and does a deep analysis on
 
 # Installation
 
-cd DeepWeb</br>
-pip3 install -r requirements.txt</br>
+cd DeepWeb< /br>
+pip3 install -r requirements.txt< /br>
 
 # Usage
 
