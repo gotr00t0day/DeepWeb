@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "deepweb"
+version = "0.1.0"
+description = "DeepWeb does a deep analysis on links extracted from a website."
+authors = ["c0d3Ninja"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+colorama = "^0.4.6"
+bs4 = "^0.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
